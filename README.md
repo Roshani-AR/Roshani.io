@@ -98,9 +98,4 @@
 </body>
 </html>
 
-    }
-
-    div.query-options {
-        flex-direction: column;
-    }
-}
+  
